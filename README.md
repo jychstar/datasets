@@ -19,4 +19,4 @@ Following is a brief summary:
 | movie review        | md                                       | 25 k            | text           |
 | customer segment    | [html](http://www.yuchao.us/2017/02/machine-learning-nd-2-unsupervised.html) | 0.44 k          | 6              |
 | Bay Area Bike Share | md                                       | 144k *6         | 11             |
-|                     |                                          |                 |                |
+| chopstick           | text,ipynb                               | 0.186           | 3              |
