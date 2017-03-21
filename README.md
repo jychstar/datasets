@@ -14,9 +14,9 @@ Following is a brief summary:
 | MNIST               | md                                       | 70 k            | 784 =28*28     |
 | notMNIST            | md                                       | ~520 k          | 784 = 28*28    |
 | Enron email         | md, ipynb                                | ~ 500 k         | text           |
-| bike sharing        | md                                       | 17.4 k          | 13             |
+| bike_share_DC       | md                                       | 17.4 k          | 13             |
 | SVHN                | md, ipynb                                | 99.3 k+531k     | 1024 =32*32    |
 | movie review        | md                                       | 25 k            | text           |
 | customer segment    | [html](http://www.yuchao.us/2017/02/machine-learning-nd-2-unsupervised.html) | 0.44 k          | 6              |
-| Bay Area Bike Share | md                                       | 144k *6         | 11             |
+| bike_share_bay_area | md                                       | 144k *6         | 11             |
 | chopstick           | text,ipynb                               | 0.186           | 3              |
