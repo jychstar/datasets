@@ -1,6 +1,8 @@
-Truth stroy of Titanic is the ship collision on 1912-4-15, killing 1502 out of 2224 passengers, a survival rate of 32.5%.
+Truth stroy: Titanic sank on 1912-4-15, killing 1502 out of 2224 passengers, a survival rate of 32.5%.
 
 The dataset is held at https://www.kaggle.com/c/titanic
+
+On 2017-3-16, I showed an Xap, a web-based platform of Exaptive, for the final interview. It still works and you can drag train.txt to the page: https://exaptive.city/xap/fe1dc1d0-0513-11e7-9a0d-372a3901145c
 
 train.csv:
 
