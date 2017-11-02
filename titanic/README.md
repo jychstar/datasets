@@ -1,3 +1,5 @@
+## About the Xap
+
 Backstory: An OKC-based start-up company Exaptive is building a web-based platform for data scientist. The key idea is to split the data pipeline into reusable modules, especially for the data visualization on the web. At the same time, you can still write your Python or R codes to do the data mining. 
 
 From 2017-2-15 to 2017-3-16, I used their platform to build an **Xap:** https://exaptive.city/xap/fe1dc1d0-0513-11e7-9a0d-372a3901145c
@@ -11,6 +13,8 @@ The block diagram looks like this:
 ![](https://lh3.googleusercontent.com/UReI5mDaSYLMMNakhu26DX8L9j9rJLIpiehRz-320rQ-a23g2xEDQQTCIGhahTHW1M5sNNh85ygwJMiSKo02-sUI9TR2ffCTTu_JxoyzGZhOW6Jcre31Vb1PZ7VKz-MibYIjSH0PjelMOwON_E9Bk0PHr0KVha-dZk65jHC07ZM3ZRt8i7YMyc80acntNq-wVJjeBezGu0N36qb7ly5mpeM3RwpxpbpWkXcNlIJgvOLYtXsPkfPjNd9KGPEW1REZk94TdSgUoEYSPthlO0ps2oVhWYUmrJDmWsV4LTu8brlJVvNn7Wq6ghpGoBz1Em08dN7Ngn61nZnuhpOOgQQMAtxAR6zYjPCvjXtkweTCHa47yvz3z6oSNMPioLlJbwhiqXdUHTX7odLEubAePwgYhyktBlFPb1o-wwqjwDo8Ob8Hqc-GC678JtH7ZW2nHdybCCz6tkLpkHLAwCj41HvQSoFhEMF-InWEN0y0ThrMGGAtNACmBagkPtc2i-4qhp07W00-fxxMnwlYRSJSXW22HjXXaWgt1PWUhHdSH7Qh2h05SXyQT-as4mdJ318jTcqFIycLRGM5jpDzDTDuQG-vxrTEzSJQz7ITd5_jACx93A=w2390-h1494-no)
 
 ---
+
+## About the dataset
 
 History: Titanic sank on 1912-4-15, killing 1502 out of 2224 passengers, a survival rate of 32.5%.
 
@@ -26,6 +30,8 @@ train.csv:
 test.csv:
 
 - 418 instances
+
+## About machine learning
 
 In **titanic_survival_exploration** of machine learning nanodegree, we have:
 
