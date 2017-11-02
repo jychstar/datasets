@@ -6,11 +6,13 @@ From 2017-2-15 to 2017-3-16, I used their platform to build an **Xap:** https://
 
 It still works. You can drag the [train.txt](https://s3-us-west-2.amazonaws.com/jychstar/train.csv) into the webpage and see the magic!
 
-You will see 2 charts. Both of them take advantage of JavaScript library. The bar plot uses 
+You will see 2 charts. Both of them take advantage of JavaScript library. The bar plot uses JS library dimple. The pie plot uses JS library plotly.  
 
 The block diagram looks like this:
 
 ![](https://lh3.googleusercontent.com/UReI5mDaSYLMMNakhu26DX8L9j9rJLIpiehRz-320rQ-a23g2xEDQQTCIGhahTHW1M5sNNh85ygwJMiSKo02-sUI9TR2ffCTTu_JxoyzGZhOW6Jcre31Vb1PZ7VKz-MibYIjSH0PjelMOwON_E9Bk0PHr0KVha-dZk65jHC07ZM3ZRt8i7YMyc80acntNq-wVJjeBezGu0N36qb7ly5mpeM3RwpxpbpWkXcNlIJgvOLYtXsPkfPjNd9KGPEW1REZk94TdSgUoEYSPthlO0ps2oVhWYUmrJDmWsV4LTu8brlJVvNn7Wq6ghpGoBz1Em08dN7Ngn61nZnuhpOOgQQMAtxAR6zYjPCvjXtkweTCHa47yvz3z6oSNMPioLlJbwhiqXdUHTX7odLEubAePwgYhyktBlFPb1o-wwqjwDo8Ob8Hqc-GC678JtH7ZW2nHdybCCz6tkLpkHLAwCj41HvQSoFhEMF-InWEN0y0ThrMGGAtNACmBagkPtc2i-4qhp07W00-fxxMnwlYRSJSXW22HjXXaWgt1PWUhHdSH7Qh2h05SXyQT-as4mdJ318jTcqFIycLRGM5jpDzDTDuQG-vxrTEzSJQz7ITd5_jACx93A=w2390-h1494-no)
+
+The dataflow is very intuitive. However, because every component (block) is built from scratch by the few developers, it is really **difficult to scale** and compete with other similar software such as **Alteryx**.  There is always **a tradeoff between customization and scaling**. 
 
 ---
 
